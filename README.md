@@ -32,7 +32,18 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijitjadhav1998&show_icons=true&locale=en&layout=compact" alt="abhijitjadhav1998" /></p>
  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitjadhav1998&" alt="abhijitjadhav1998" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitjadhav1998&" alt="abhijitjadhav1998" /></p>
+
+[![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitjadhav1998&hide=contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+| <a href="https://github.com/abhijitjadhav1998"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijitjadhav1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues,contribs" alt="Abhijit's GitHub stats" /></a> | <a href="https://github.com/abhijitjadhav1998"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitjadhav1998&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
+
+
 
 
 ###  📕  Latest Blog Posts
@@ -40,3 +51,8 @@
 - [Keep your mouse moving to avoid going away on Microsoft Teams](https://abhijithjadhav.medium.com/keep-your-mouse-moving-to-avoid-going-away-on-microsoft-teams-8a7801313990?source=rss-d84b6adcd7dc------2)
 - [Deepfake Video Detection Using Long Short-Term Memory](https://abhijithjadhav.medium.com/deepfake-video-detection-using-long-short-term-memory-df3674f83ecc?source=rss-d84b6adcd7dc------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+| Open Source Contribution |Top Repository|
+| ------------- | ------------- |
+|<a href="https://github.com/experience-ml/cartoonize"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=experience-ml&repo=cartoonize&theme=buefy" /></a>|<a href="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitjadhav1998&repo=Deepfake_detection_using_deep_learning&theme=buefy" /></a>|
