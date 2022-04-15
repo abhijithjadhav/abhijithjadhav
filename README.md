@@ -4,13 +4,12 @@
 </p>
 
 <p align="center">  </p1>  
-<a href="https://medium.com/@abhijithjadhav"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="https://www.instagram.com/abhijit_h_jadhav/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abhijitjadhav1998/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCUOtPYV4Qgte60iTOthh3Mg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
-<a href="https://www.reddit.com/user/abhijitjadhavaj"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>&nbsp;
+<a href="https://medium.com/@abhijithjadhav" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/abhijitjadhav1998/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCUOtPYV4Qgte60iTOthh3Mg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
+<a href="https://www.reddit.com/user/abhijitjadhavaj" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>&nbsp;
 <a href="mailto:abhijit.jadhav1998@gmail.com?subject=Hello%20Abhijit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/abhijitjadhav1998/articles"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeekforGeeks" /></a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/abhijitjadhav1998/articles" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeekforGeeks" /></a>&nbsp;
 
 <br>
 
@@ -33,4 +32,4 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijitjadhav1998&show_icons=true&locale=en&layout=compact" alt="abhijitjadhav1998" /></p>
  -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijitjadhav1998&show_icons=true&locale=en" alt="abhijitjadhav1998" /> &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitjadhav1998&" alt="abhijitjadhav1998" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijitjadhav1998&show_icons=true&locale=en" alt="abhijitjadhav1998" /> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitjadhav1998&" alt="abhijitjadhav1998" /></p>
