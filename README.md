@@ -55,7 +55,7 @@
 - [Multiple Images in Single Container Docker setup for Nvidia Cuda](https://abhijithjadhav.medium.com/multiple-images-in-single-container-docker-setup-for-nvidia-cuda-2f7d5548c2b0?source=rss-d84b6adcd7dc------2)
 - [Dockerise deepfake detection Django application using Nvidia Cuda](https://abhijithjadhav.medium.com/dockerise-deepfake-detection-django-application-using-nvidia-cuda-40cdda3b6d38?source=rss-d84b6adcd7dc------2)
 <!-- BLOG-POST-LIST:END -->
-
+🔖 [More Blogs](https://medium.com/@abhijithjadhav) 
 
 | Open Source Contribution |Top Repository|
 | ------------- | ------------- |
