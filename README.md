@@ -55,6 +55,7 @@
 
 ###  📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tricky Java Interview Questions Series: Release 4](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-4-d4bb62951b43?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 3](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-3-5adf4b2d1abe?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 2](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-2-88b05a665536?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 1](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-1-edad8c84ca30?source=rss-d84b6adcd7dc------2)
