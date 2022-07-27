@@ -55,6 +55,7 @@
 
 ###  📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem with equals&lpar;&rpar; method in inheritance that violates the symmetric behavior in Java](https://abhijithjadhav.medium.com/problem-with-equals-method-in-inheritance-that-violates-the-symmetric-behavior-in-java-418b1b58d394?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 4](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-4-d4bb62951b43?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 3](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-3-5adf4b2d1abe?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 2](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-2-88b05a665536?source=rss-d84b6adcd7dc------2)
