@@ -55,6 +55,7 @@
 
 ###  📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tricky Java Interview Questions Series: Release 5](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-5-fe394cbdb4af?source=rss-d84b6adcd7dc------2)
 - [Problem with equals&lpar;&rpar; method in inheritance that violates the symmetric behavior in Java](https://abhijithjadhav.medium.com/problem-with-equals-method-in-inheritance-that-violates-the-symmetric-behavior-in-java-418b1b58d394?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 4](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-4-d4bb62951b43?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 3](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-3-5adf4b2d1abe?source=rss-d84b6adcd7dc------2)
@@ -64,7 +65,6 @@
 - [Multiple Images in Single Container Docker setup for Nvidia Cuda](https://abhijithjadhav.medium.com/multiple-images-in-single-container-docker-setup-for-nvidia-cuda-2f7d5548c2b0?source=rss-d84b6adcd7dc------2)
 - [Dockerise deepfake detection Django application using Nvidia Cuda](https://abhijithjadhav.medium.com/dockerise-deepfake-detection-django-application-using-nvidia-cuda-40cdda3b6d38?source=rss-d84b6adcd7dc------2)
 - [Keep your mouse moving to avoid going away on Microsoft Teams](https://abhijithjadhav.medium.com/keep-your-mouse-moving-to-avoid-going-away-on-microsoft-teams-8a7801313990?source=rss-d84b6adcd7dc------2)
-- [Deepfake Video Detection Using Long Short-Term Memory](https://abhijithjadhav.medium.com/deepfake-video-detection-using-long-short-term-memory-df3674f83ecc?source=rss-d84b6adcd7dc------2)
 <!-- BLOG-POST-LIST:END -->
 🔖 [More Blogs](https://medium.com/@abhijithjadhav) 
 
