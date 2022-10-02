@@ -55,6 +55,7 @@
 
 ###  📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The When, How, and Where of the Job Switch](https://abhijithjadhav.medium.com/the-when-how-and-where-of-the-job-switch-fd2f22141ba9?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 6](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-6-bc11ba9a3344?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 5](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-5-fe394cbdb4af?source=rss-d84b6adcd7dc------2)
 - [Problem with equals&lpar;&rpar; method in inheritance that violates the symmetric behavior in Java](https://abhijithjadhav.medium.com/problem-with-equals-method-in-inheritance-that-violates-the-symmetric-behavior-in-java-418b1b58d394?source=rss-d84b6adcd7dc------2)
@@ -64,7 +65,6 @@
 - [Tricky Java Interview Questions Series: Release 1](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-1-edad8c84ca30?source=rss-d84b6adcd7dc------2)
 - [Deepfake Detection using Deep Learning Code Walkthrough &lpar;Part 1&rpar;](https://abhijithjadhav.medium.com/deepfake-detection-using-deep-learning-code-walkthrough-part-1-b5e43d45e59c?source=rss-d84b6adcd7dc------2)
 - [Multiple Images in Single Container Docker setup for Nvidia Cuda](https://abhijithjadhav.medium.com/multiple-images-in-single-container-docker-setup-for-nvidia-cuda-2f7d5548c2b0?source=rss-d84b6adcd7dc------2)
-- [Dockerise deepfake detection Django application using Nvidia Cuda](https://abhijithjadhav.medium.com/dockerise-deepfake-detection-django-application-using-nvidia-cuda-40cdda3b6d38?source=rss-d84b6adcd7dc------2)
 <!-- BLOG-POST-LIST:END -->
 🔖 [More Blogs](https://medium.com/@abhijithjadhav) 
 
