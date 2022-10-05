@@ -20,8 +20,8 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Looking for opportunities as Full Stack Java Developer
-- 🔭 I’m currently working as Full Stack Engineer @ Accenture :grin:
-- 🌱 I’m currently learning Data Structure and Algorithms.
+- 🔭 I’m currently working as BA3 Developer @ Barclays :grin:
+- 🌱 I’m currently learning DSA and AWS .
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects and blog posts
 - 💬 Ask me about anything, I am happy to help :smile:
