@@ -55,6 +55,7 @@
 
 ###  📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PySpark Docker Image creation and run Pyspark test cases](https://abhijithjadhav.medium.com/pyspark-docker-image-creation-and-run-pyspark-test-cases-65aba6ff8acc?source=rss-d84b6adcd7dc------2)
 - [The When, How, and Where of the Job Switch](https://abhijithjadhav.medium.com/the-when-how-and-where-of-the-job-switch-fd2f22141ba9?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 6](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-6-bc11ba9a3344?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 5](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-5-fe394cbdb4af?source=rss-d84b6adcd7dc------2)
@@ -64,7 +65,6 @@
 - [Tricky Java Interview Questions Series: Release 2](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-2-88b05a665536?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 1](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-1-edad8c84ca30?source=rss-d84b6adcd7dc------2)
 - [Deepfake Detection using Deep Learning Code Walkthrough &lpar;Part 1&rpar;](https://abhijithjadhav.medium.com/deepfake-detection-using-deep-learning-code-walkthrough-part-1-b5e43d45e59c?source=rss-d84b6adcd7dc------2)
-- [Multiple Images in Single Container Docker setup for Nvidia Cuda](https://abhijithjadhav.medium.com/multiple-images-in-single-container-docker-setup-for-nvidia-cuda-2f7d5548c2b0?source=rss-d84b6adcd7dc------2)
 <!-- BLOG-POST-LIST:END -->
 🔖 [More Blogs](https://medium.com/@abhijithjadhav) 
 
