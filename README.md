@@ -55,7 +55,7 @@
 
 ###  📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Lambda Provisoned Concurrency vs SnapStart — When to use what](https://abhijithjadhav.medium.com/lambda-provisoned-concurrency-vs-snapstart-when-to-use-what-9736501e77a5?source=rss-d84b6adcd7dc------2)
+- [Lambda Provisoned Concurrency vs SnapStart — When to use what](https://aws.plainenglish.io/lambda-provisoned-concurrency-vs-snapstart-when-to-use-what-9736501e77a5?source=rss-d84b6adcd7dc------2)
 - [PySpark Docker Image creation and run Pyspark test cases](https://abhijithjadhav.medium.com/pyspark-docker-image-creation-and-run-pyspark-test-cases-65aba6ff8acc?source=rss-d84b6adcd7dc------2)
 - [The When, How, and Where of the Job Switch](https://abhijithjadhav.medium.com/the-when-how-and-where-of-the-job-switch-fd2f22141ba9?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 6](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-6-bc11ba9a3344?source=rss-d84b6adcd7dc------2)
