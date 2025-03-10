@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/channel/UCUOtPYV4Qgte60iTOthh3Mg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
 <a href="https://abhijithjadhav.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Abhijit-brightgreen?style=for-the-badge&logo=appveyor" alt="portfolio" /></a>&nbsp;
 <a href="https://www.reddit.com/user/abhijitjadhavaj" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>&nbsp;
-S<a href="mailto:abhijit.jadhav1998@gmail.com?subject=Hello%20Abhijit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:abhijit.jadhav1998@gmail.com?subject=Hello%20Abhijit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 
 
