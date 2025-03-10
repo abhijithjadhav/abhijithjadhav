@@ -9,8 +9,7 @@
 <a href="https://www.youtube.com/channel/UCUOtPYV4Qgte60iTOthh3Mg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
 <a href="https://abhijithjadhav.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Abhijit-brightgreen?style=for-the-badge&logo=appveyor" alt="portfolio" /></a>&nbsp;
 <a href="https://www.reddit.com/user/abhijitjadhavaj" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>&nbsp;
-<a href="mailto:abhijit.jadhav1998@gmail.com?subject=Hello%20Abhijit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/abhijitjadhav1998/articles" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeekforGeeks" /></a>&nbsp;
+S<a href="mailto:abhijit.jadhav1998@gmail.com?subject=Hello%20Abhijit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 
 
@@ -20,10 +19,10 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Looking for opportunities as Full Stack Java Developer
-- 🔭 I’m currently working as BA3 Developer @ Barclays :grin:
-- 🌱 I’m currently learning DSA and AWS .
+- 🔭 I’m currently working as AWS Developer @ Barclays :grin:
+- 🌱 I’m currently learning AWS .
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Contribute to Open Source projects and blog posts
+- 🥅 2025 Goals: Complete 8x AWS Certification's
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: **[Linkedin](https://www.linkedin.com/in/abhijithjadhav/)**
 - 🧗 I try to: Reach above and beyond 
@@ -44,7 +43,7 @@
 [![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitjadhav1998&hide=contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-| <a href="https://github.com/abhijithjadhav"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijitjadhav1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues,contribs" alt="Abhijit's GitHub stats" /></a> | <a href="https://github.com/abhijitjadhav1998"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitjadhav1998&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/abhijithjadhav"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijithjadhav&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues,contribs" alt="Abhijit's GitHub stats" /></a> | <a href="https://github.com/abhijithjadhav"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithjadhav&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
