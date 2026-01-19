@@ -59,7 +59,7 @@
 - [Tricky Java Interview Questions Series: Release 6](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-6-bc11ba9a3344?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 5](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-5-fe394cbdb4af?source=rss-d84b6adcd7dc------2)
 - [Problem with equals&lpar;&rpar; method in inheritance that violates the symmetric behavior in Java](https://abhijithjadhav.medium.com/problem-with-equals-method-in-inheritance-that-violates-the-symmetric-behavior-in-java-418b1b58d394?source=rss-d84b6adcd7dc------2)
-- [Tricky Java Interview Questions Series: Release 4](https://medium.com/javarevisited/tricky-java-interview-questions-series-release-4-d4bb62951b43?source=rss-d84b6adcd7dc------2)
+- [Tricky Java Interview Questions Series: Release 4](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-4-d4bb62951b43?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 3](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-3-5adf4b2d1abe?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 2](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-2-88b05a665536?source=rss-d84b6adcd7dc------2)
 - [Tricky Java Interview Questions Series: Release 1](https://abhijithjadhav.medium.com/tricky-java-interview-questions-series-release-1-edad8c84ca30?source=rss-d84b6adcd7dc------2)
